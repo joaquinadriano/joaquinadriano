@@ -18,6 +18,6 @@ I'm Joaquin Miguel Adriano, a fourth-year BS Information Technology (Web and Mob
 
 ## Contact
 
-* 💼 LinkedIn: [YOUR-LINKEDIN](https://www.linkedin.com/in/joaquinadriano/)
+* 💼 LinkedIn: [Joaquin Adriano](https://www.linkedin.com/in/joaquinadriano/)
 * 🐙 GitHub: [@joaquinadriano](https://github.com/joaquinadriano)
 * ✉️ Email: [joaquinmigueladriano@gmail.com](mailto:joaquinmigueladriano@gmail.com)
