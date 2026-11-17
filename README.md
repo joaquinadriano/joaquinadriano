@@ -14,7 +14,7 @@ I'm Joaquin Miguel Adriano, a fourth-year BS Information Technology (Web and Mob
 * [**Solteira & Brands**](https://github.com/joaquinadriano/Solteira-Brands) – An inventory management system for tracking the products and stock of Solteira & Brands.
 * **AGOS** – Capstone project: a digital platform to modernize the Pasig River Ferry Service (PRFS).
 * **Dentra** – Dental clinic record management system built with Laravel and SQLite by a team over seven weeks.
-* **MapQuest Directions App** – Team enhancement of a Python app using the MapQuest Directions REST API, moved to a shared Git repository.
+* **Maply Directions App** – Team enhancement of a Python app using the MapQuest Directions REST API, moved to a shared Git repository.
 
 ## Contact
 
